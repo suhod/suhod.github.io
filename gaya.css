@@ -1,0 +1,17 @@
+.jumbotron{
+	background-image: url("https://www.satujam.com/wp-content/uploads/2016/09/sate-maranggi-purwakarta.jpg");
+	background-size: cover;
+	color:white;
+	text-align: center;
+	height: 300px;
+	font-family: Open Sans Condensed, sans-serif;
+	
+}
+img{
+	height: 400px;
+	width: 500px;
+}
+#kambing{
+	padding-left: 40px;
+}
+ 
